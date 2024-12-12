@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         if (words.length === MAX_WORDS) {
             localStorage.setItem('vocabularyWords', JSON.stringify(words));
-            window.location.href = '/game.html';
+            window.location.href = '/vocabtype/game.html';
         } else {
             alert('Please enter all 10 words before starting the game!');
         }
@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const randomWords = await getRandomWords();
         if (randomWords.length === MAX_WORDS) {
             localStorage.setItem('vocabularyWords', JSON.stringify(randomWords));
-            window.location.href = '/game.html';
+            window.location.href = '/vocabtype/game.html';
         } else {
             alert('Error loading random words. Please try again.');
         }

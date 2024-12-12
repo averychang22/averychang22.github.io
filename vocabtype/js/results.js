@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Check if we have data (if not, redirect to index)
     if (!wordResults.length) {
-        window.location.href = './index.html';
+        window.location.href = '/vocabtype';
         return;
     }
 

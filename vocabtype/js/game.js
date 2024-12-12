@@ -414,7 +414,7 @@ class Game {
         // Add a small delay before redirecting
         setTimeout(() => {
             // Using absolute path from root
-            window.location.href = '/results.html';
+            window.location.href = '/vocabtype/results.html';
         }, 1000);
     }
 

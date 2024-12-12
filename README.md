@@ -7,7 +7,7 @@ December 11, 2024
 ## 🎮 About The Game
 Vocabulary Jump is a charming pixel art typing game designed to make vocabulary practice fun and engaging. Watch your adorable pixel dog companion jump from platform to platform as you type words correctly, creating an enjoyable way to enhance your vocabulary skills.
 
-💭 Inspiration
+## 💭 Inspiration
 This project was inspired by my roommate's journey in learning English. Watching their dedication to improving their vocabulary and typing speed, while sometimes struggling with traditional learning methods, motivated me to create something that would make the learning process more enjoyable. Vocabulary Jump combines the fun of retro gaming with practical language learning, transforming what can be a challenging task into an engaging experience.
 The pixel art style was chosen not just for its nostalgic charm, but also to create a friendly, non-intimidating environment where learners can practice at their own pace. Every feature, from the jumping dog to the color-coded feedback, was designed with language learners in mind, aiming to bring a smile to their face while building their confidence in English.
 This project is dedicated to all language learners who are working hard to improve their skills, especially my roommate, whose perseverance inspired this game.
